@@ -1,0 +1,2 @@
+Quarantine SIQ
+{"Objects Definition": [{"name": "Agent", "states": [{"name": "health", "description": "by default, he is susceptible"}, {"name": "loc", "description": "location is either in town (T, not quarantined) or Q (quarantined)"}], "interactions & activities": [{"name": "health_update", "description": ""}]}], "Functions": [{"name": "list_healths", "description": ""}, {"name": "count_prop", "description": ""}], "Simulation & Schedules": {"name": "simulation", "description": "# Initial state and simulation"}, "Example Usage": ""}

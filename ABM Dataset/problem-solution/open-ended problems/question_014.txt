@@ -1,0 +1,1 @@
+{"model":"the war among countries","problem":"How to help the weakest country achieve ultimate victory in the war by providing a cooperative mechanism?","criteria":[]}

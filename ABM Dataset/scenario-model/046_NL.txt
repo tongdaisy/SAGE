@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate the US election. This ABM should compose Voter, Election, The Voter are described by ideology, vote, The Voter should have activities: cast_vote, The Election are described by voters, candidates, results, The Election should have activities: run, Then, you should implement the simulation.  
+Programming Language: Python.
+Progam:

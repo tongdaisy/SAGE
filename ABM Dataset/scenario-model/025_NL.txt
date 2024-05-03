@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate stock market. This ABM should compose shareHolder, stock, The shareHolder are described by shares, wealth, purchasePrice, sellFreq, buyFreq, buyAgg, sellAgg, The shareHolder should have activities: returnPurchasePrice, returnTotalWealth, buy, sell, update, The stock are described by holders, sharesOwned, holders, sharesOwned, sharesOwned, price, sharesFree, totalShares, sharesFree, sharesOwned, priceAffect, The stock should have activities: printHolders, stockPrice, freeShares, step, 
+Programming Language: Python.
+Progam:

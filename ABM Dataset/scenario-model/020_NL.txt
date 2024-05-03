@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate Schelling's model. This ABM should compose Schelling, The Schelling are described by width, height, races, empty_ratio, similarity_threshold, n_iterations, empty_houses, agents, The Schelling should have activities: populate, is_unsatisfied, update, calculate_similarity, You can build Merge, to help model. 
+Programming Language: Python.
+Progam:

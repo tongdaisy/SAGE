@@ -1,0 +1,1 @@
+{"model":"Electricity transmission and and usage Issues in Cities","problem":"Enrich the model to consider the Network Topology, Load Balancing, Fault Handling during the electricity transmisson","criteria":[]}

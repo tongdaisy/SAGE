@@ -1,0 +1,2 @@
+Task: Please generate an agent-based model that simulate trading market. This ABM should compose Market, Agent, The Market are described by T, N, mu, sigma, avg, stdv, prices, The Market should have activities: currentPrice, getNextPrice, runMarket, The Agent are described by stock, cash, bf, sf, bp, sp, hp, options, buyStock, sellStock, holdStock, The Agent should have activities: getTransactionType, buyStock, sellStock, holdStock, executeTransaction, You can build randNorm, to help model. 
+Program:

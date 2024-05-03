@@ -1,0 +1,1 @@
+{"model":"the behavior and interactions of immune cells in an immune system","problem":"enrich the model to simulate how the immune system works when there is a viral invasion.","criteria":[]}

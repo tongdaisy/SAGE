@@ -1,0 +1,2 @@
+{"model":"school life","problem":"Improve the learning enthusiasm of students","criteria":[{"variable_name": "enthusiasm", "variable_example":1.0, "requirement":"The value should be bigger than 1.0"}]}
+

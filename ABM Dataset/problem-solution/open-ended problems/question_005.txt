@@ -1,0 +1,1 @@
+{"model":"the America selection","problem":"Please enrich the model to simulate how media can influence the selection","criteria":[]}

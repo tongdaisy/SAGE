@@ -1,0 +1,1 @@
+{"model":"spread of forest fire","problem":"provide some policies for the government to accelerate firefighting ","criteria":[]}

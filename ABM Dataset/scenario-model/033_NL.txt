@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate Spread of virus. This ABM should compose Person, Government, Hospital, Virus, The Person are described by x, y, infected, immune, days_infected, in_hospital, The Person should have activities: move, infect, update, is_infected, is_immune, The Government are described by population_size, virus, infection_rate, people, The Government should have activities: create_population, simulate_spread, The Hospital are described by capacity, patients, The Hospital should have activities: admit_patient, treat_patient, The Virus are described by recovery_day, spread_distance, 
+Programming Language: Python.
+Progam:

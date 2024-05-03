@@ -1,0 +1,1 @@
+{"model":"the spread of rumor in the social network","problem":"Provide the Legitimate Measures to Prevent Rumor Spread","criteria":[]}

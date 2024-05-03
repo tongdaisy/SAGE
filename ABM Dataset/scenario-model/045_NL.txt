@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate the war among different countries. This ABM should compose Country, Alliance, WarModel, The Country are described by name, population, resources, economy, alliance, The Country should have activities: calculate_power, form_alliance, The Alliance are described by name, members, The Alliance should have activities: add_member, calculate_power, The WarModel are described by countries, The WarModel should have activities: simulate,  
+Programming Language: Python.
+Progam:

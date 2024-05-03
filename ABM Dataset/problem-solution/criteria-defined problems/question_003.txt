@@ -1,0 +1,2 @@
+{"model":"school life","problem":"Control the number of student to teacher ratio.","criteria":[{"variable_name": "student_teacher_ratio_record", "variable_example":[10.0,9.5,11,12], "requirement":"No one ratio of this record should be out of ranged of [8,12]"}]}
+

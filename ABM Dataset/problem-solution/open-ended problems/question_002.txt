@@ -1,0 +1,1 @@
+{"model":"spread of forest fire","problem":"enrich the model to describe and simulate the influence of the forest fire on different types of animals","criteria":[]}

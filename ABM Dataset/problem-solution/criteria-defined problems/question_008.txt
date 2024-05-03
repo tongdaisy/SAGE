@@ -1,0 +1,1 @@
+{"model":"spread of virus","problem":"Reduce the country's economic losses by expediting the end of the pandemic", "criteria":[{"variable_name": "GDP_decrease_ratio", "variable_example":0.1, "requirement":"The value of it should be less than 0.1"}, {"variable_name": "NDI_decrease_ratio", "variable_example":0.1, "requirement":"The value of it should be less than 0.1"}]}

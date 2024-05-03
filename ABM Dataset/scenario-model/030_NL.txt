@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate school life. This ABM should compose Student, Teacher, School, Lecture, The Student are described by id, grade, is_attending, learning_enthusiasm, experience_points, test_score, The Student should have activities: change_grade, change_attendance, earn_experience_points, improvement_be_rewarded, The Teacher are described by id, The Teacher should have activities: give_lecture, assign_group_work, The School are described by students, teachers, graduate_grade, The School should have activities: enroll_student, hire_teacher, graduate, assign_group_work, The Lecture are described by school, subject, The Lecture should have activities: start, test, end, 
+Programming Language: Python.
+Progam:

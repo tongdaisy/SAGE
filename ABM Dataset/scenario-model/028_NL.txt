@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate 2D voting peocess. This ABM should compose VoterAgent, VoterModel, The VoterAgent are described by state, The VoterAgent should have activities: step, voter_model_step, The VoterModel are described by proportion, grid, schedule, datacollector_currents, running, The VoterModel should have activities: step, current_a_agents, current_b_agents, You can also use package mesa to help model.
+Programming Language: Python.
+Progam:

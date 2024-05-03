@@ -1,0 +1,2 @@
+ US election
+{"Objects Definition": [{"name": "Voter", "states": [{"name": "ideology", "description": ""}, {"name": "vote", "description": ""}], "interactions & activities": [{"name": "cast_vote", "description": ""}]}, {"name": "Election", "states": [{"name": "voters", "description": ""}, {"name": "candidates", "description": ""}, {"name": "results", "description": ""}], "interactions & activities": [{"name": "run", "description": ""}]}], "Functions": [], "Simulation & Schedules": {"name": "simulation", "description": ""}, "Example Usage": ""}

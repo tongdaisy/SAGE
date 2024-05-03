@@ -1,0 +1,2 @@
+{"model":"spread of virus","problem":"Describe the scenarios that this virus can be immuned after recovering ","criteria":[{"variable_name": "final_infect", "variable_example":5, "requirement":"The value of if should be 0"}]}
+

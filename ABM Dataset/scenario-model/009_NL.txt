@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate the spread of covid and the prevent process;. This ABM should compose Virus, Person, Hospital, Government, The Virus are described by transmission_rate, mortality_rate, The Virus should have activities: transmit, kill, The Person are described by id, is_infected, is_dead, The Person should have activities: infect, die, is_alive, The Hospital are described by capacity, patients, The Hospital should have activities: admit, discharge, The Government are described by lockdown, The Government should have activities: impose_lockdown, lift_lockdown, 
+Programming Language: Python.
+Progam:

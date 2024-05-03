@@ -1,0 +1,1 @@
+{"model":"school life","problem":"control the number of students","criteria":[{"variable_name": "total_num_students", "variable_example":100, "requirement":"The value should be ranged in [80,120]"}]}

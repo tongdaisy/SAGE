@@ -1,0 +1,1 @@
+{"model":"Electricity Usage and Distribution Issues in Cities","problem":"provide some new policies for the government to control the users' electricity usage","criteria":[]}

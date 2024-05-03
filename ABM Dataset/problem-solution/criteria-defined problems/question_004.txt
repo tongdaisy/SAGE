@@ -1,0 +1,2 @@
+{"model":"school life","problem":"Add the performance evaluation and promotion/fire mechanisms for teachers.","criteria":[{"variable_name": "teacher_salary_variance", "variable_example":0.2, "requirement":"The value of if should bigger than 0"}]}
+

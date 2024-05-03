@@ -1,0 +1,80 @@
+Example:
+Task: Modify the original agent-based model by providing the specific code of the following methods in the requirments;
+Requirements: [
+{class:"School",method:"graduate",description:""},
+{class:"School",method:"enroll_student",description:""}
+]
+Original agent-based model:
+class Student:
+    def __init__(self, id, grade):
+        self.id = id
+        self.grade = grade
+    def change_grade(self, new_grade):
+        self.grade = new_grade
+class School:
+    def __init__(self, num_students):
+        self.students = [Student(id, random.randint(1, 12)) for id in range(num_students)]
+    def enroll_student(self):
+        #need specific code
+        pass
+    def graduate(self):
+        #need specific code
+        pass
+# Simulation Process
+def simulation(num_students):
+    # Init
+    school = School(num_students)
+    for student in school.students:
+        new_grade = random.randint(1, 12)
+        student.change_grade(new_grade)
+    # Step
+    for i in range(10):
+        for student in school.students:
+            student.change_grade(student.grade + 1)
+        school.graduate()
+        num_new_student = random.randint(10, 20)
+        new_students = [Student(id, random.randint(1, 12)) for id in
+                        range(len(school.students), len(school.students) + num_new_student)]
+        school.enroll_student()
+
+Modified Model:
+class Student:
+    def __init__(self, id, grade):
+        self.id = id
+        self.grade = grade
+    def change_grade(self, new_grade):
+        self.grade = new_grade
+class School:
+    def __init__(self, num_students, graduate_grade):
+        self.students = [Student(id, random.randint(1, 12)) for id in range(num_students)]
+        # more information added for specific code
+        self.graduate_grade = graduate_grade
+    def enroll_student(self, student):
+        # specific code
+        self.students.append(student)
+    def graduate(self):
+        # specific code
+        update_students = self.students.copy()
+        for s in self.students:
+            if s.grade > self.graduate_grade:
+                update_students.remove(s)
+        self.students = update_students
+# Simulation Process
+def simulation(num_students, graduate_grade):
+    # Init
+    school = School(num_students, graduate_grade)
+    for student in school.students:
+        new_grade = random.randint(1, graduate_grade)
+        student.change_grade(new_grade)
+    # Step
+    for i in range(10):
+        for student in school.students:
+            student.change_grade(student.grade + 1)
+        school.graduate()
+        num_new_student = random.randint(10, 20)
+        new_students = [Student(id, random.randint(1, graduate_grade)) for id in
+                        range(len(school.students), len(school.students) + num_new_student)]
+        for s in new_students:
+            school.enroll_student(s)
+            
+Task: Modify the original agent-based model by providing the specific code of the following methods in the requirments;

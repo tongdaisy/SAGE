@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate sugerspace. This ABM should compose Sugar, Spice, Trader, SugarscapeG1mt, The SugarscapeG1mt are described by width, height, grid, width, height, You can also use package mesa to help model.
+Programming Language: Python.
+Progam:

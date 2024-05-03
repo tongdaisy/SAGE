@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate the spread of a forest fire. This ABM should compose Forest, Tree, Agent, Government, The Forest are described by size, grid, The Forest should have activities: get_neighbors, spread_fire, count_burning_trees, display, The Tree are described by status, The Tree should have activities: set_status, The Agent are described by forest, x, y, The Agent should have activities: move, extinguish_fire, The Government are described by forest, agent, The Government should have activities: accelerate_fire_extinguishing, 
+Programming Language: Python.
+Progam:

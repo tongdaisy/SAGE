@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate Electricity Usage and Distribution Issues in Cities. This ABM should compose User, Government, PowerPlant, City, The User are described by location, income, demand, The User should have activities: consume, The Government are described by location, The Government should have activities: regulate, The PowerPlant are described by location, capacity, The PowerPlant should have activities: generate, The City are described by users, government, power_plants, The City should have activities: simulate, Then, you should implement the simulation. 
+Programming Language: Python.
+Progam:

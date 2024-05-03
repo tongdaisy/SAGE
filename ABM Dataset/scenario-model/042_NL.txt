@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate import random. This ABM should compose ImmuneCell, HIVCell, Environment, Food, The ImmuneCell are described by x, y, energy, infected, The ImmuneCell should have activities: move, move_towards_hiv, find_nearest_hiv, calculate_distance, eat, divide, check_infection, fight_hiv, The HIVCell are described by x, y, The HIVCell should have activities: move, The Environment are described by width, height, cells, food, hiv_cells, The Environment should have activities: update, The Food are described by x, y, energy,  Then, you should implement the simulation. 
+Programming Language: Python.
+Progam:

@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate the Chronic Wasting Disease in deer. This ABM should compose Deer, World, The Deer are described by x, y, x, y, infected, sick_count, gender, alive, The Deer should have activities: age, The World are described by x_size, y_size, poop_map, y_size, x_size, deer_list, deer_list, deer_list, deer_list, deer_list, terrain, deer_locations, terrain, deer_list, deer_locations, The World should have activities: draw_poop, draw_potential, draw_deer, move_deer, poop, infect_deer, kill_deer, age_deer, 
+Programming Language: Python.
+Progam:

@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate prison delimma. This ABM should compose Juego, Jugador, The Juego are described by __matriz, __jugador1, __jugador2, __historia, __decisiones, The Juego should have activities: decisionesDelOtroJugador, historia, pagoEsperado, The Jugador are described by __probabilidad, __memoria, The Jugador should have activities: estrategia, tomarDecisionRacional, 
+Programming Language: Python.
+Progam:

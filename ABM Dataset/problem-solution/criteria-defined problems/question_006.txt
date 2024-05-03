@@ -1,0 +1,1 @@
+{"model":"spread of virus","problem":"Improving the treatment_rate by providing reasonable admitting and discharging mechanisms","criteria":[{"variable_name": "treatment_rate", "variable_example":0.1, "requirement":"The value of it should more than 0.25"}]}

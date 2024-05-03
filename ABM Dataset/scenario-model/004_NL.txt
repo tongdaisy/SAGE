@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate the Mouse T-cell repertoire, in which, thymic production plus death and division in the periphery, Age-dependence of thymus and body mass.. This ABM should compose Cell, T, CD4, CD8, CellPopulation, The Cell should have activities: __del__, The T are described by tcr, The T should have activities: __del__, The CD4 should have activities: __del__, The CD8 should have activities: __del__, The CellPopulation are described by cellnames, celltypes, CD4list, CD8list, celllists, CD4list, CD8list, events, death, division, thymus, The CellPopulation should have activities: death, division, thymus, 
+Programming Language: Python.
+Progam:

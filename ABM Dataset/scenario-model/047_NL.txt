@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate the behavior and interactions of immune cells in an immune system. This ABM should compose ImmuneCell, Environment, Food, The ImmuneCell are described by x, y, energy, The ImmuneCell should have activities: move, eat, divide, The Environment are described by width, height, cells, food, The Environment should have activities: update, The Food are described by x, y, energy, Then, you should implement the simulation.  
+Programming Language: Python.
+Progam:

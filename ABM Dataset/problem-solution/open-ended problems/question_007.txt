@@ -1,0 +1,1 @@
+{"model":"the spread of virus","problem":"provide the policies for government to control the  virus spread rate","criteria":[]}

@@ -1,0 +1,2 @@
+Bayesland
+{"Objects Definition": [{"name": "agent", "states": [{"name": "bankroll", "description": ""}], "interactions & activities": [{"name": "getBankroll", "description": ""}, {"name": "setBankroll", "description": ""}, {"name": "getKey", "description": ""}, {"name": "setPast", "description": ""}, {"name": "getPast", "description": ""}]}], "Functions": [{"name": "tossCoin", "description": ""}], "Simulation & Schedules": {"name": "simulation", "description": ""}, "Example Usage": ""}

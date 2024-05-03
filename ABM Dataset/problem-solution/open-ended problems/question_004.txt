@@ -1,0 +1,1 @@
+{"model":"prison's delimma","problem":"Please provide a method for Jugador to break the prisoner's dilemma","criteria":[]}

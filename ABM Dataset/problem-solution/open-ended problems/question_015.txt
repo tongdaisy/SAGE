@@ -1,0 +1,1 @@
+{"model":"wars among different countries","problem":"enrich the model to simulate how the war can improve the technology","criteria":[]}

@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate the financial_market. This ABM should compose Emitter, Broker, Investor, The Emitter are described by agency, numEmitters, id, numStocks, numObligations, location, price, numStocks, numEmitters, agency, period, offer, numStocks, period, exchange, The Emitter should have activities: offering_stocks, sell_stocks, The Broker are described by percent, stocks, investors, id, location, The Broker should have activities: choose_emitters, buy_stocks, The Investor are described by budget, id, location, perc_agreement, broker, The Investor should have activities: find_broker, You can build get_x, triangular_distr, timeit, initialize, to help model. 
+Programming Language: Python.
+Progam:

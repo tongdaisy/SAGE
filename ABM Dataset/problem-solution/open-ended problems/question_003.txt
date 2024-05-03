@@ -1,0 +1,1 @@
+{"model":"spread of forest fire","problem":"provide some policies for government to accelerate the restoration of forest ecology after a forest fire","criteria":[]}

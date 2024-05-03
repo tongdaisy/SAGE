@@ -1,0 +1,2 @@
+SIR model
+{"Objects Definition": [{"name": "Agent", "states": [{"name": "health", "description": "by default, he is subseceptible"}], "interactions & activities": [{"name": "health_update", "description": ""}]}], "Functions": [{"name": "list_healths", "description": ""}, {"name": "count_prop", "description": ""}], "Simulation & Schedules": {"name": "simulation", "description": "# Initial state & run simulation"}, "Example Usage": ""}

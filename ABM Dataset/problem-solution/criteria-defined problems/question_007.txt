@@ -1,0 +1,1 @@
+{"model":"spread of virus","problem":"control the virus spread rate","criteria":[{"variable_name": "max_spread_rate", "variable_example":0.1, "requirement":"The value of it should be less than 0.1"}]}

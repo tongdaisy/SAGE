@@ -1,0 +1,1 @@
+{"model":"traffic scenario","problem":"Prevent car accidents","criteria":[{"variable_name": "num_accidents", "variable_example":3, "requirement":"The value of it should be 0"}]}

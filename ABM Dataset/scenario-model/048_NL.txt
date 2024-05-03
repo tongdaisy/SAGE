@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate the marine ecosystem. This ABM should compose Agent, Fish, Shark, Ocean, The Agent are described by x, y, The Agent should have activities: move, The Fish are described by energy, The Fish should have activities: move, eat, reproduce, update, The Shark are described by energy, The Shark should have activities: move, eat, reproduce, update, The Ocean are described by width, height, agents, agents, agents, The Ocean should have activities: update, find_fish, Then, you should implement the simulation. 
+Programming Language: Python.
+Progam:

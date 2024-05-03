@@ -1,0 +1,3 @@
+Task: Please generate an agent-based model that simulate SIR model. This ABM should compose Agent, The Agent are described by health, The Agent should have activities: health_update, You can build list_healths, count_prop, to help model. 
+Programming Language: Python.
+Progam:

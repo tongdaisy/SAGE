@@ -1,0 +1,1 @@
+{"model":"production and consumption life","problem":"Introducing competitive mechanisms to enhance social productivity and consumption.","criteria":[{"variable_name": "workers_salary_variance", "variable_example":2.3, "requirement":"The value of it should be bigger than 5"}]}
